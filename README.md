@@ -5,8 +5,8 @@ This repository contains the **official implementation** of the paper:
 > **"Wave-driven Graph Neural Networks with Energy Dynamics for Over-smoothing Mitigation"**
 >
 > Peihan Wu+, Hongda Qi+, Sirong Huang, Dongdong An, Jie Lian, Qin Zhao*
-> Published in **IJCAI**, 2025.
-> [📄 Paper Link](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1386.pdf)
+>
+> Published in **IJCAI**, 2025.[📄 Paper Link](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1386.pdf)
 
 ##  Overview
 
