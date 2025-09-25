@@ -15,6 +15,7 @@ The implementation of "Wave-driven Graph Neural Networks with Energy Dynamics fo
 ##  Citation
 
 If you find this repository useful, please cite our paper:
+[Bib file](https://www.ijcai.org/proceedings/2025/bibtex/732)
 
 ##  Contact
 
